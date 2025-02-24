@@ -31,8 +31,10 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
-			}
+				"height": 122
+			},
+			"selected": false,
+			"deletable": false
 		},
 		{
 			"data": {
@@ -65,8 +67,9 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
-			}
+				"height": 122
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -108,7 +111,9 @@
 					"displayName": "",
 					"hasComment": true,
 					"comment": "Open registration page on UI",
-					"arguments": "profile",
+					"arguments": [
+						"profile"
+					],
 					"templatePath": "profile.ftlh",
 					"asssignedVariableName": "data"
 				},
@@ -129,8 +134,9 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
-			}
+				"height": 122
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -168,7 +174,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -202,7 +208,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -236,7 +242,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -274,7 +280,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -342,7 +348,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -376,7 +382,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -410,7 +416,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -438,7 +444,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -468,7 +474,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -502,7 +508,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -525,13 +531,15 @@
 			"type": "finishNode",
 			"id": "finishNode-5a005234-b64b-42ac-8fb0-a6df7325e77b",
 			"position": {
-				"x": 2800,
-				"y": 450
+				"x": 2956.1531562805176,
+				"y": 462
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
-			}
+				"height": 122
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -565,7 +573,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -593,7 +601,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		}
 	],
@@ -923,8 +931,8 @@
 		}
 	],
 	"viewport": {
-		"x": 0,
-		"y": 0,
+		"x": -1583.1531562805176,
+		"y": -49,
 		"zoom": 1
 	}
 }
