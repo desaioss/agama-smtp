@@ -31,7 +31,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -109,7 +109,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -270,7 +270,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -390,7 +390,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -420,7 +420,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -454,7 +454,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -561,7 +561,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -590,7 +590,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -630,7 +630,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		},
 		{
@@ -693,7 +693,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 124
+				"height": 122
 			}
 		}
 	],
@@ -1061,8 +1061,8 @@
 		}
 	],
 	"viewport": {
-		"x": 38.18538216435627,
-		"y": -61.69451094727481,
-		"zoom": 0.7169776240079136
+		"x": 0,
+		"y": 0,
+		"zoom": 1
 	}
 }
