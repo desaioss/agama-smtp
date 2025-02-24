@@ -32,7 +32,9 @@
 			"measured": {
 				"width": 170,
 				"height": 122
-			}
+			},
+			"selected": false,
+			"deletable": false
 		},
 		{
 			"data": {
@@ -76,7 +78,8 @@
 			"measured": {
 				"width": 170,
 				"height": 122
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -585,13 +588,15 @@
 			"type": "finishNode",
 			"id": "finishNode-cd6ef3bf-5959-41ab-b61b-5ca628c1b413",
 			"position": {
-				"x": 3300,
-				"y": 950
+				"x": 3528,
+				"y": 921
 			},
 			"measured": {
 				"width": 170,
 				"height": 122
-			}
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -1061,8 +1066,8 @@
 		}
 	],
 	"viewport": {
-		"x": 0,
-		"y": 0,
+		"x": -2577,
+		"y": -451,
 		"zoom": 1
 	}
 }
