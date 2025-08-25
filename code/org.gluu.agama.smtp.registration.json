@@ -31,7 +31,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			},
 			"selected": false,
 			"deletable": false
@@ -67,7 +67,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			},
 			"selected": false
 		},
@@ -134,7 +134,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			},
 			"selected": false
 		},
@@ -174,7 +174,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -280,7 +280,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -382,7 +382,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -444,7 +444,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			},
 			"selected": true,
 			"dragging": false
@@ -573,7 +573,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		},
 		{
@@ -601,7 +601,7 @@
 			},
 			"measured": {
 				"width": 170,
-				"height": 122
+				"height": 124
 			}
 		}
 	],
@@ -931,8 +931,8 @@
 		}
 	],
 	"viewport": {
-		"x": -1583.1531562805176,
-		"y": -49,
+		"x": 0,
+		"y": 0,
 		"zoom": 1
 	}
 }
