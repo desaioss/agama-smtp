@@ -44,12 +44,12 @@ max = Repeat 3 times max
                          // Assign User Id (email) to a variable
                          uid = userData.uid
                          // Finish the flow successfully
-                         it_zxzqx = {success:true, data: { userId: uid, uid: uid}}
-                         Finish it_zxzqx
+                         it_pxzsh = {success:true, data: { userId: uid, uid: uid}}
+                         Finish it_pxzsh
           // When email verification is invalid
           When emailVerificationResult.success is false
                // Error variable assignment. 
-               emailObj.errorMessage = "Error sending email. Check email address and SMTP configuration."
+               emailObj.errorMessage = Error sending email. Check email address and SMTP configuration.
      // User with same email already exists
      Log "@info User with e-mail % is known" email
      // Run email verification sub-routine
@@ -59,13 +59,13 @@ max = Repeat 3 times max
           // Assigning user id (email) to a variable
           uid = userData.uid
           // Email verification and hence authentication is successful
-          it_eodsh = {success:true, data: {userId: uid, uid: uid}}
-          Finish it_eodsh
+          it_laoxd = {success:true, data: {userId: uid, uid: uid}}
+          Finish it_laoxd
      When emailVerificationResult.success is false
           // Assigning error message to a variable
-          emailObj.errorMessage = "Error sending email. Check email address and SMTP configuration."
+          emailObj.errorMessage = Error sending email. Check email address and SMTP configuration.
 // Fail if credential enrollment or authenticator flow failed
 Log "@info Fail if credential enrollment or authenticator flow failed"
 // Credential enrollment or authenticator flow failed
-it_jiwhq = {success:false, error: "Credential enrollment or authenticator flow failed"}
-Finish it_jiwhq
+it_vihbi = {success:false, error: "Credential enrollment or authenticator flow failed"}
+Finish it_vihbi
